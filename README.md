@@ -28,3 +28,16 @@
 ## using rarely
 
 * [Time](https://github.com/godbout/alfred-time): availabe only on [GitHub](https://github.com/godbout/alfred-time/releases)
+
+# Libaries
+
+## Swift
+
+* [AlfredWorkflowScriptFilter](https://github.com/godbout/AlfredWorkflowScriptFilter)
+* [AlfredWorkflowUpdater](https://github.com/godbout/AlfredWorkflowUpdater)
+
+## PHP
+
+* [AlfredWorkflowWorkflow](https://github.com/godbout/alfred-workflow-workflow)
+* [AlfredWorkflowScriptFilter](https://github.com/godbout/alfred-workflow-scriptfilter)
+* [AlfredWorkflowConfig](https://github.com/godbout/alfred-workflow-config)
