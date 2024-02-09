@@ -1,7 +1,7 @@
 <h1 align="center">Alfred Workflows</h1>
 
 <p align="center">
-    my love story with Alfred. things i build for my own needs.
+    things i build but also keep forgetting where it's available lol
 </p>
 
 ---
